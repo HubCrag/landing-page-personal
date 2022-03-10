@@ -1,3 +1,3 @@
-# hero-section-2
+# landing page game
 
 ## [Preview](https://youtu.be/jkBObLh8oeQ)
